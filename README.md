@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TsampGeo
+- 👋 Hi, I’m @Tsampikos
 - 👀 I’m interested in Data Analysi,Data Science & Machine Learning
 - 🌱 I’m currently learning Data Science and Machine Learning through Python
 - 💞️ I’m looking to collaborate on Data Analysis and Financial Intelligence
